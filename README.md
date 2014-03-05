@@ -1,3 +1,3 @@
-# language-ruby-slim package
+# Ruby Slim support in Atom
 
-A short description of your package.
+Ruby Slim syntax highlighting for Atom. Converted with  [TextMate bundle converter](http://atom.io/docs/latest/converting-a-text-mate-bundle) from [Slim TextMate/Sublime Bundle](https://github.com/slim-template/ruby-slim.tmbundle).
